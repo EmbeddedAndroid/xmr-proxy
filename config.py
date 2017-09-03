@@ -4,7 +4,7 @@ STRATUM_HOST = "0.0.0.0"
 STRATUM_PORT = 8080
 
 # Coin address where money goes. If you mine direct to the exchange, you MUST specify payment_id together with wallet of exchange.
-WALLET = '466KoUjvbFE2SduDyiZQUb5QviKo6qnbyDGDB46C6UcTDi5XmVtSXuRYJDmgd6mhYPU92xJHsTQyrSjLbsxdzKQc3Z1PZQM'
+WALLET = '41fRNzHaZmxH3Gc9d9bVCcLyKEbWvjrqmMb3jqbCyPuCNtbTpnrH6dw6mCuVqXaRhE3fXEe4U6PbKS1E41sJ5a1JRb7ztk3'
 # Only if you mine direct to the exchange
 PAYMENT_ID = ''
 
@@ -16,7 +16,7 @@ WORKER_ID_FROM_IP = False
 # On DwarfPool you have option to monitor your workers via email.
 # If WORKER_ID is enabled, you can monitor every worker/rig separately.
 MONITORING = True
-MONITORING_EMAIL = 'mail@example.com'
+MONITORING_EMAIL = 'babim@matmagoc.com'
 
 # Main pool
 POOL_HOST = 'xmr-eu.dwarfpool.com'
